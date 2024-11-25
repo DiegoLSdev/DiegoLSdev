@@ -6,7 +6,7 @@
 
 ---
 
-## 📂 Featured Projects
+### 📂 Featured Projects
 
 <table>
   <tr>
@@ -72,7 +72,7 @@
         <li>Technologies: React, Tailwind</li>
         <li>Key Features:
           <ul>
-            <li>Mark owned or missing cards/li>
+            <li>Mark owned or missing cards</li>
             <li>Single card prices</li>
             <li>Total value of your collection</li>
             <li>Export a missing cards list</li>
