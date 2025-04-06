@@ -17,7 +17,7 @@
           <img src="https://img.shields.io/badge/Flutter-06B6D4" alt="Flutter">
           <img src="https://img.shields.io/badge/Google Play-555555" alt="Google Play">
         </div>
-        <h3>Authentic Reviews, backed by Proof of Purchase.</h3>
+        <h3>Payments and subscriptions in one place.</h3>
     </td>
     <td>
       <img src="https://github.com/DiegoLSdev/Subs-Tracker-App/blob/main/public/img/svg/thumbnail.png" alt="Subs Tracker thumbnail" width="600">
