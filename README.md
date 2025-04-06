@@ -20,7 +20,7 @@
         <h3>Payments and subscriptions in one place.</h3>
     </td>
     <td>
-      <img src="https://github.com/DiegoLSdev/Subs-Tracker-App/blob/main/public/img/svg/thumbnail.png" alt="Subs Tracker thumbnail" width="600">
+      <img src="https://github.com/DiegoLSdev/Subs-Tracker-App/blob/main/public/img/svg/thumbnail.jpg" alt="Subs Tracker thumbnail" width="600">
     </td>
   </tr>
 
