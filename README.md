@@ -9,6 +9,21 @@
 
 <table>
 
+    <tr>
+    <td>
+      <h2><a href="https://trustyreviews.vercel.app">Trusty</a></h2>
+        <div>
+          <img src="https://img.shields.io/badge/NextJS-555555" alt="NextJS">
+          <img src="https://img.shields.io/badge/Tailwind-06B6D4" alt="Tailwind">
+          <img src="https://img.shields.io/badge/Typescript-007ACC" alt="Typescript">
+          <img src="https://img.shields.io/badge/Appwrite-F02E65" alt="Appwrite">
+        </div>
+        <h3>Authentic Reviews, backed by Proof of Purchase.</h3>
+    </td>
+    <td>
+      <img src="https://diego-lajusticia.vercel.app/thumbnails/trusty.png" alt="Trusty thumbnail" width="600">
+    </td>
+  </tr>
   
   <tr>
     <td>
