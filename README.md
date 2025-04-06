@@ -14,8 +14,8 @@
     <td>
       <h2><a href="https://trustyreviews.vercel.app">Trusty</a></h2>
         <div>
-          <img src="https://img.shields.io/badge/Flutter-555555" alt="Flutter">
-          <img src="https://img.shields.io/badge/Google Play-06B6D4" alt="Google Play">
+          <img src="https://img.shields.io/badge/Flutter-06B6D4" alt="Flutter">
+          <img src="https://img.shields.io/badge/Google Play-555555" alt="Google Play">
         </div>
         <h3>Authentic Reviews, backed by Proof of Purchase.</h3>
     </td>
