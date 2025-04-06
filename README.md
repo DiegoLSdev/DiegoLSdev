@@ -12,7 +12,7 @@
   
   <tr>
     <td>
-      <h2><a href="https://trustyreviews.vercel.app">Trusty</a></h2>
+      <h2><a href="https://subs-tracker-app.vercel.app/">Subs Tracker</a></h2>
         <div>
           <img src="https://img.shields.io/badge/Flutter-06B6D4" alt="Flutter">
           <img src="https://img.shields.io/badge/Google Play-555555" alt="Google Play">
