@@ -3,7 +3,7 @@
 - 👋 **Name:** Diego Lajusticia
 - 🌍 **Location:** Barcelona, Spain
 - 💻 **Specialties:** Full-Stack Development | Mobile Applications
-- 💼 **Current Job:** IT Coordinator
+- 💼 **Current Job:** Front-End Developer
 
 ### 🗂️ Featured Projects
 
