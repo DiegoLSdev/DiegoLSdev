@@ -1,93 +1,20 @@
-## 🚀 About Me
+# 🚀 About Me
 
-- 👋 **Name:** Diego Lajusticia
-- 🌍 **Location:** Barcelona, Spain
-- 💻 **Specialties:** Full-Stack Development | Mobile Applications
-- 💼 **Current Job:** Front-End Developer
+- 👋 **Name:** Diego Lajusticia  
+- 🌍 **Location:** Barcelona, Spain  
+- 💻 **Specialties:** Full-Stack Development | Mobile Applications  
+- 💼 **Current Job:** Front-End Developer  
 
-### 🗂️ Featured Projects
+---
 
-<table>
+## 🗂️ Featured Projects  
 
-  
-  <tr>
-    <td>
-      <h2><a href="https://subs-tracker-app.vercel.app/">Subs Tracker</a></h2>
-        <div>
-          <img src="https://img.shields.io/badge/Flutter-06B6D4" alt="Flutter">
-          <img src="https://img.shields.io/badge/Google Play-555555" alt="Google Play">
-        </div>
-        <h3>Payments and subscriptions in one place.</h3>
-    </td>
-    <td>
-      <img src="https://github.com/DiegoLSdev/Subs-Tracker-App/blob/main/public/img/svg/thumbnail.jpg" alt="Subs Tracker thumbnail" width="600">
-    </td>
-  </tr>
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| [**Subs Tracker**](https://subs-tracker-app.vercel.app/) | ![Flutter](https://img.shields.io/badge/Flutter-06B6D4) ![Google Play](https://img.shields.io/badge/Google_Play-555555) | Payments and subscriptions in one place. |
+| [**Trusty**](https://trustyreviews.vercel.app) | ![NextJS](https://img.shields.io/badge/NextJS-555555) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4) ![Typescript](https://img.shields.io/badge/Typescript-007ACC) ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65) | Authentic Reviews, backed by Proof of Purchase. |
+| [**Pin Point**](https://pinpoint-4.onrender.com) | ![React](https://img.shields.io/badge/React-007ACC) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4) ![Javascript](https://img.shields.io/badge/Javascript-C2B200) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248) | Save and organize your important URLs effortlessly. |
+| [**Task Manager**](https://task-manager-trello.netlify.app) | ![HTML](https://img.shields.io/badge/HTML-E34F26) ![CSS](https://img.shields.io/badge/CSS-1572B6) ![Javascript](https://img.shields.io/badge/Javascript-C2B200) | Drag and drop your pending tasks into the corresponding log. |
+| [**MTG Card Collection**](https://mtg-collector.vercel.app/) | ![HTML](https://img.shields.io/badge/HTML-E34F26) ![CSS](https://img.shields.io/badge/CSS-1572B6) ![Javascript](https://img.shields.io/badge/Javascript-C2B200) | Keep track of your Lord of The Rings card collection. |
 
-
-  <tr>
-    <td>
-      <h2><a href="https://trustyreviews.vercel.app">Trusty</a></h2>
-        <div>
-          <img src="https://img.shields.io/badge/NextJS-555555" alt="NextJS">
-          <img src="https://img.shields.io/badge/Tailwind-06B6D4" alt="Tailwind">
-          <img src="https://img.shields.io/badge/Typescript-007ACC" alt="Typescript">
-          <img src="https://img.shields.io/badge/Appwrite-F02E65" alt="Appwrite">
-        </div>
-        <h3>Authentic Reviews, backed by Proof of Purchase.</h3>
-    </td>
-    <td>
-      <img src="[public/assets/images/trusty.png](https://github.com/DiegoLSdev/Trusty/blob/main/public/assets/images/trusty.png)" alt="Trusty thumbnail" width="600">
-    </td>
-  </tr>
-
-  
-  <tr>
-    <td>
-      <h2><a href="https://pinpoint-4.onrender.com">Pin Point</a></h2>
-        <div>
-          <img src="https://img.shields.io/badge/React-007ACC" alt="NextJS">
-          <img src="https://img.shields.io/badge/Tailwind-06B6D4" alt="Tailwind">
-          <img src="https://img.shields.io/badge/Javascript-C2B200" alt="js">
-          <img src="https://img.shields.io/badge/MongoDB-47A248" alt="js">
-        </div>
-        <h3>Save and organize your important URLs effortlessly.</h3>
-        </li>
-      </ul>
-    </td>
-    <td>
-      <img src="https://diego-lajusticia.vercel.app/thumbnails/pinpoint.png" alt="Web Project 2 thumbnail" width="600">
-    </td>
-  </tr>
-
-
-  
-  <tr>
-    <td>
-      <h2><a href="https://task-manager-trello.netlify.app">Task Manager</a></h2>
-        <div>
-          <img src="https://img.shields.io/badge/HTML-E34F26" alt="html">
-          <img src="https://img.shields.io/badge/CSS-1572B6" alt="css">
-          <img src="https://img.shields.io/badge/Javascript-C2B200" alt="js">
-        </div>
-              <h3>Drag and drop your pending works into the corresponding log.</h3>
-    </td>
-    <td>
-      <img src="https://diego-lajusticia.vercel.app/thumbnails/taskmanager.png" alt="Web Project 2 thumbnail" width="600">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h2><a href="https://mtg-collector.vercel.app/">MTG Card Collection</a></h2>
-              <div>
-          <img src="https://img.shields.io/badge/HTML-E34F26" alt="html">
-          <img src="https://img.shields.io/badge/CSS-1572B6" alt="css">
-          <img src="https://img.shields.io/badge/Javascript-C2B200" alt="js">
-        </div>
-                      <h3>Keep track of your Lord of The Rings collection</h3>
-    </td>
-    <td>
-      <img src="https://diego-lajusticia.vercel.app/thumbnails/lotr.png" alt="Web Project 2 thumbnail" width="600">
-    </td>
-  </tr>
-</table>
+---
