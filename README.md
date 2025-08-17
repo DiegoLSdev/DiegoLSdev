@@ -37,7 +37,7 @@
         <h3>Authentic Reviews, backed by Proof of Purchase.</h3>
     </td>
     <td>
-      <img src="public/assets/images/trusty.png" alt="Trusty thumbnail" width="600">
+      <img src="[public/assets/images/trusty.png](https://github.com/DiegoLSdev/Trusty/blob/main/public/assets/images/trusty.png)" alt="Trusty thumbnail" width="600">
     </td>
   </tr>
 
