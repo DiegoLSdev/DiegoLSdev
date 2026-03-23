@@ -5,8 +5,6 @@
 - 💻 **Specialties:** Full-Stack Development | Mobile Applications  
 - 💼 **Current Job:** Front-End Developer  
 
----
-
 # 🗂️ Featured Projects  
 
 ### [**Fragmint**](https://fragmint.vercel.app/) ![Vue](https://img.shields.io/badge/Vue-47A248) ![Render](https://img.shields.io/badge/Render-555555) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4)
