@@ -1,30 +1,35 @@
-# 🚀 About Me
+<!-- Copia esta carpeta (README.md + assets/) al repo DiegoLSdev/DiegoLSdev -->
 
-- 👋 **Name:** Diego Lajusticia  
-- 🌍 **Location:** Barcelona, Spain  
-- 💻 **Specialties:** Full-Stack Development | Mobile Applications  
-- 💼 **Current Job:** Front-End Developer  
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Diego Lajusticia — Software Developer" />
+</p>
 
-# 🗂️ Featured Projects  
+<p align="left">
+  <a href="https://github.com/DiegoLSdev"><img src="./assets/btn-portfolio.svg" height="40" alt="Portfolio" /></a>
+  <a href="mailto:dlsdevstudio@gmail.com"><img src="./assets/btn-email.svg" height="40" alt="Email" /></a>
+  <a href="https://github.com/DiegoLSdev?tab=repositories"><img src="./assets/btn-github.svg" height="40" alt="GitHub" /></a>
+</p>
 
-### [**Fragmint**](https://fragmint.vercel.app/) ![Vue](https://img.shields.io/badge/Vue-47A248) ![Render](https://img.shields.io/badge/Render-555555) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4)
+<br />
 
-Manage yourCode Snippets 🚧 Building 🚧
+<img src="./assets/div-projects.svg" width="100%" alt="Index — Selected work" />
 
-<br>
+<p align="center">
+  <a href="https://assetly.es"><img src="./assets/card-assetly.svg" width="49%" alt="01 · Assetly — Asset & Ticket Management" /></a>
+  <a href="https://fragmint.dev"><img src="./assets/card-fragmint.svg" width="49%" alt="02 · Fragmint — Snippet Manager" /></a>
+  <a href="https://kodice-cards.vercel.app/"><img src="./assets/card-kodice.svg" width="49%" alt="03 · Kodice — TCG Collection Manager" /></a>
+  <a href="https://preflop-labs.vercel.app/"><img src="./assets/card-preflop-labs.svg" width="49%" alt="04 · Preflop Labs — Study Poker" /></a>
+  <a href="https://my-lazy-docs.vercel.app/"><img src="./assets/card-lazy-docs.svg" width="49%" alt="05 · Lazy Docs — Docs" /></a>
+</p>
 
-### [**Lazy Docs**](https://my-lazy-docs.vercel.app/) ![React](https://img.shields.io/badge/React-06B6D4) ![Open Source](https://img.shields.io/badge/OpenSource-808080) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4)
+<br />
 
-Write markdown and deploy, that's it
+<img src="./assets/div-stack.svg" width="100%" alt="Stack" />
 
-<br>
-
-### [**MTG Card Collection**](https://mtga-collectors.vercel.app/) ![VUE](https://img.shields.io/badge/Vue-47A248) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4) ![CSS](https://img.shields.io/badge/Pinia-C2B200)
-
-Keep track of your Lord of The Rings card collection.
-
-<br>
-
-### [**Katu**](https://subs-tracker-app.vercel.app/) ![Flutter](https://img.shields.io/badge/Flutter-06B6D4) ![Google Play](https://img.shields.io/badge/Google_Play-555555)
-
-Payments and subscriptions in one place.
+<p>
+  <img src="https://img.shields.io/badge/React-0b0b0b?style=flat-square&logo=react&logoColor=e9e7e3" />
+  <img src="https://img.shields.io/badge/Three.js-0b0b0b?style=flat-square&logo=threedotjs&logoColor=e9e7e3" />
+  <img src="https://img.shields.io/badge/TypeScript-0b0b0b?style=flat-square&logo=typescript&logoColor=e9e7e3" />
+  <img src="https://img.shields.io/badge/Node.js-0b0b0b?style=flat-square&logo=nodedotjs&logoColor=e9e7e3" />
+  <img src="https://img.shields.io/badge/Vite-0b0b0b?style=flat-square&logo=vite&logoColor=e9e7e3" />
+</p>
