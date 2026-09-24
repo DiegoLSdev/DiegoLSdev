@@ -5,9 +5,8 @@
 </p>
 
 <p align="left">
-  <a href="https://TU-PORTFOLIO.com"><img src="./assets/btn-portfolio.svg" height="40" alt="Portfolio" /></a>
+  <a href="https://diego-lajusticia.vercel.app/"><img src="./assets/btn-portfolio.svg" height="40" alt="Portfolio" /></a>
   <a href="mailto:dlsdevstudio@gmail.com"><img src="./assets/btn-email.svg" height="40" alt="Email" /></a>
-  <a href="https://github.com/DiegoLSdev?tab=repositories"><img src="./assets/btn-github.svg" height="40" alt="GitHub" /></a>
 </p>
 
 <br />
